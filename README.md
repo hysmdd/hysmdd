@@ -1,7 +1,7 @@
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=coder9277&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-<div align="center">
- <img src="https://camo.githubusercontent.com/fd114832a389b59adec5244841fbffa8089b1a314ce0acfa9f035c4a2676de50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68722e676966" />
+<div align="center" >
+ <img src="https://camo.githubusercontent.com/fd114832a389b59adec5244841fbffa8089b1a314ce0acfa9f035c4a2676de50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68722e676966" width="200%" />
 </div>
 
 <div align="center">
