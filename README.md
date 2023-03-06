@@ -1,30 +1,45 @@
-<!-- ### Hi there 👋 -->
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=coder9277&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-<!--
-**coder9277/coder9277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ <img src="https://camo.githubusercontent.com/fd114832a389b59adec5244841fbffa8089b1a314ce0acfa9f035c4a2676de50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68722e676966" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+ <img src="https://camo.githubusercontent.com/99566fa6377a4330ab05dc0799ca5007a88e3eca6e1019114a19a697775aa3a1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6d616e2e706e67">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=coder9277&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-<!-- ### 你好，世界 👋
-- 🔭 Java
-- 🌱 Vue
-- 🤔 Python
-- ⚡ Computer Network
- -->
-  
-### Hi there  🌅
-- :orange_book: 题库系统：https://tiku.imqinhao.cn
- 
-- :hammer:  个人网站：http://www.imqinhao.cn
- 
-- :meat_on_bone: 音乐解锁：http://music.imqinhao.cn
+<div align="center">
+ 💪 正在学习
+</div>
+<br />
+<div align="center"> 
+ <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" /> 
+ <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat" />
+ <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" />
+ <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat" />
+ <img src="https://img.shields.io/badge/Node.js-3DDC84?logo=nodedotjs&logoColor=fff&style=flat" />
+ <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" />
+ <img src="https://img.shields.io/badge/Elastic-41CD52?logo=elastic&logoColor=fff&style=flat" />
+ <img src="https://img.shields.io/badge/MongoDB-31A8FF?logo=mongodb&logoColor=fff&style=flat" />
+</div>
+
+<br />
+
+<div align="center">
+ 🧠 计划学习
+</div>
+<br />
+<div align="center"> 
+ <img src="https://img.shields.io/badge/-RabbitMQ-E34F26?style=flat-square&logo=rabbitmq&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/-Docker-A8B9CC?style=flat-square&logo=docker" /> 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" /> 
+ <img src="" />
+ <img src="" />
+ <img src="" />
+ <img src="" />
+ <img src="" />
+ <img src="" />
+</div>
+
