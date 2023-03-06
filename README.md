@@ -23,6 +23,7 @@
  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" />
  <img src="https://img.shields.io/badge/Elastic-41CD52?logo=elastic&logoColor=fff&style=flat" />
  <img src="https://img.shields.io/badge/MongoDB-31A8FF?logo=mongodb&logoColor=fff&style=flat" />
+ <img src="https://img.shields.io/badge/Git-FCC624?logo=git&logoColor=000&style=flat" />
 </div>
 
 <br />
@@ -33,13 +34,13 @@
 <br />
 <div align="center"> 
  <img src="https://img.shields.io/badge/-RabbitMQ-E34F26?style=flat-square&logo=rabbitmq&logoColor=white" /> 
- <img src="https://img.shields.io/badge/-Docker-A8B9CC?style=flat-square&logo=docker" /> 
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" /> 
- <img src="" />
- <img src="" />
- <img src="" />
- <img src="" />
- <img src="" />
- <img src="" />
+ <img src="https://img.shields.io/badge/-Docker-A8B9CC?style=flat-square&logo=docker" />
+ <img src="https://img.shields.io/badge/Kubernetes-777BB4?logo=Kubernetes&logoColor=fff&style=flat" />
+ <img src="https://img.shields.io/badge/Azure DevOps-0078D6?logo=azuredevops&logoColor=fff&style=flat" />
+ <img src="https://img.shields.io/badge/Consul-276DC3?logo=consul&logoColor=fff&style=flat" />
+ <img src="https://img.shields.io/badge/Shell-61DAFB?logo=shell&logoColor=000&style=flat" />
+ <img src="https://img.shields.io/badge/Go-FCC624?logo=go&logoColor=000&style=flat" />
+ <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat" />
+ <img src="https://img.shields.io/badge/Swift-3DDC84?logo=swift&logoColor=fff&style=flat" />
 </div>
 
