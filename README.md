@@ -77,6 +77,6 @@
 </div>
 
 <div align="center"> 
- <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=coder9277&repo=blog&theme=dark&bg_color=121212&hide_border=true" /> 
- <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=coder9277&repo=reggie&theme=dark&bg_color=121212&hide_border=true" />
+ <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=queen299&repo=blog&theme=dark&bg_color=121212&hide_border=true" /> 
+ <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=queen299&repo=reggie&theme=dark&bg_color=121212&hide_border=true" />
 </div>
