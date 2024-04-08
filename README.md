@@ -60,19 +60,7 @@
  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,blender,bootstrap,docker,eclipse,elasticsearch,java,spring,idea,mysql,redis,maven,rabbitmq,jenkins,kubernetes,less,nodejs,npm,nginx,md,jquery,idea,linux,c,cpp,twitter,git,github,gitlab,instagram,react,redux,ts,vscode,vue,pinia,vite,postman,py,pycharm,sublime&theme=light" />
 </div>
 
-<div align="center">
- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /></div>
-</div>
-
-<div align="center" >
- <img src="https://camo.githubusercontent.com/fd114832a389b59adec5244841fbffa8089b1a314ce0acfa9f035c4a2676de50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68722e676966" width="200%" />
-</div>
 
 <div align="center">
  <img width="256px" src="https://user-images.githubusercontent.com/44516655/223028588-c1de4446-a3c4-44c9-9b35-c578acb9d745.gif" />
-</div>
-
-<div align="center"> 
- <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hysmdd&repo=blog&theme=dark&bg_color=121212&hide_border=true" /> 
- <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hysmdd&repo=reggie&theme=dark&bg_color=121212&hide_border=true" />
 </div>
