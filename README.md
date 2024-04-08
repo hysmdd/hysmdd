@@ -8,10 +8,6 @@
  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hysmdd&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite%22" />
 </div>
 
-<div align="center" >
- <img src="https://camo.githubusercontent.com/fd114832a389b59adec5244841fbffa8089b1a314ce0acfa9f035c4a2676de50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68722e676966" width="200%" />
-</div>
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/44516655/223027869-81d53d25-3dea-46de-8693-fbe3377f1575.png" />
 </div>
@@ -61,7 +57,7 @@
 <br />
 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=ps,ai,pr,au,blender,java,py,idea,linux,c,cpp,twitter,git,instagram,electron&theme=light" />
+ <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,blender,bootstrap,docker,eclipse,elasticsearch,java,spring,idea,mysql,redis,maven,rabbitmq,jenkins,kubernetes,less,nodejs,npm,nginx,md,jquery,idea,linux,c,cpp,twitter,git,github,gitlab,instagram,react,redux,ts,vscode,vue,pinia,vite,postman,py,pycharm,sublime&theme=light" />
 </div>
 
 <div align="center">
